@@ -25,7 +25,7 @@
  *  The original code was part of MEAPsoft by Columbia University, found at
  *  https://www.ee.columbia.edu/~ronw/code/MEAPsoft/doc/html/FFT_8java-source.html
  */
-
+package com.example.sensors.sensors;
 public class FFT {
 
   int n, m;
